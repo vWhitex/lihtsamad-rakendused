@@ -1,0 +1,1 @@
+# lihtsamad-rakendused
