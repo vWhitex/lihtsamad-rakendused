@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TodoList
 build_property.RootNamespace = TodoList
-build_property.ProjectDir = C:\Users\u-96\TodoList\
+build_property.ProjectDir = C:\Users\tammo\Source\Repos\Lihtsamad-rakendused\Blazor\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\u-96\TodoList
+build_property.MSBuildProjectDirectory = C:\Users\tammo\Source\Repos\Lihtsamad-rakendused\Blazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/u-96/TodoList/App.razor]
+[C:/Users/tammo/Source/Repos/Lihtsamad-rakendused/Blazor/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/u-96/TodoList/Pages/Counter.razor]
+[C:/Users/tammo/Source/Repos/Lihtsamad-rakendused/Blazor/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/u-96/TodoList/Pages/FetchData.razor]
+[C:/Users/tammo/Source/Repos/Lihtsamad-rakendused/Blazor/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/u-96/TodoList/Pages/Index.razor]
+[C:/Users/tammo/Source/Repos/Lihtsamad-rakendused/Blazor/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/u-96/TodoList/Pages/Todo.razor]
+[C:/Users/tammo/Source/Repos/Lihtsamad-rakendused/Blazor/Pages/Todo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/u-96/TodoList/Shared/SurveyPrompt.razor]
+[C:/Users/tammo/Source/Repos/Lihtsamad-rakendused/Blazor/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/u-96/TodoList/_Imports.razor]
+[C:/Users/tammo/Source/Repos/Lihtsamad-rakendused/Blazor/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/u-96/TodoList/Shared/MainLayout.razor]
+[C:/Users/tammo/Source/Repos/Lihtsamad-rakendused/Blazor/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lgk3a00odd
 
-[C:/Users/u-96/TodoList/Shared/NavMenu.razor]
+[C:/Users/tammo/Source/Repos/Lihtsamad-rakendused/Blazor/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-8wslh49k3u
 
-[C:/Users/u-96/TodoList/Pages/Error.cshtml]
+[C:/Users/tammo/Source/Repos/Lihtsamad-rakendused/Blazor/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/u-96/TodoList/Pages/_Host.cshtml]
+[C:/Users/tammo/Source/Repos/Lihtsamad-rakendused/Blazor/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
