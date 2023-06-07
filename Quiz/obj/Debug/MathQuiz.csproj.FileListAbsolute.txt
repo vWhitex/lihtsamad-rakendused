@@ -9,3 +9,14 @@ C:\Users\u-96\source\repos\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.c
 C:\Users\u-96\source\repos\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
 C:\Users\u-96\source\repos\MathQuiz\obj\Debug\MathQuiz.exe
 C:\Users\u-96\source\repos\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\tammo\source\repos\Lihtsamad-rakendused\Quiz\bin\Debug\MathQuiz.exe.config
+C:\Users\tammo\source\repos\Lihtsamad-rakendused\Quiz\bin\Debug\MathQuiz.exe
+C:\Users\tammo\source\repos\Lihtsamad-rakendused\Quiz\bin\Debug\MathQuiz.pdb
+C:\Users\tammo\source\repos\Lihtsamad-rakendused\Quiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\tammo\source\repos\Lihtsamad-rakendused\Quiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\tammo\source\repos\Lihtsamad-rakendused\Quiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\tammo\source\repos\Lihtsamad-rakendused\Quiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\tammo\source\repos\Lihtsamad-rakendused\Quiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\tammo\source\repos\Lihtsamad-rakendused\Quiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\tammo\source\repos\Lihtsamad-rakendused\Quiz\obj\Debug\MathQuiz.exe
+C:\Users\tammo\source\repos\Lihtsamad-rakendused\Quiz\obj\Debug\MathQuiz.pdb
